@@ -69,7 +69,6 @@ const Work = () => {
 
   const [filterWork, setFilterWork] = useState(projects);
 
-
   const handleWorkFilter = (item) => {
     setActiveFilter(item);
     setAnimateCard([{ y: 100, opacity: 0 }]);
