@@ -35,7 +35,16 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import madara from '../assets/madara.jpg'
+import gojo from '../assets/gojo.jpg'
+import bruce from '../assets/bruce.jpg'
+import hashirama from '../assets/hashirama.png'
+
 export default {
+  hashirama,
+  bruce,
+  madara,
+  gojo,
   email,
   mobile,
   api,
