@@ -10,6 +10,7 @@ const MotionWrap = (Component, classNames) => function HOC() {
     >
       <Component />
     </motion.div>
+    //just a comment
   );
 };
 
